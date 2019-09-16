@@ -8,18 +8,18 @@ In this work we introduce the method to learn disentangled representation unsupe
 
 ### PIAE(MI)
 
-![PIAEMI_brightness](/imgs/code003.gif)
+![PIAEMI_brightness](imgs/code003.gif)
 Brightness
 
-![PIAEMI_gender](/imgs/code040.gif)
+![PIAEMI_gender](imgs/code040.gif)
 Gender
 
 ### PIAE(KL)
 
-![PIAEKL_brightness](/imgs/code039.gif)
+![PIAEKL_brightness](imgs/code039.gif)
 Brightness
 
-![PIAEKL_gender](/imgs/code013.gif)
+![PIAEKL_gender](imgs/code013.gif)
 Gender
 
 ## Prerequisites
