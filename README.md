@@ -1,8 +1,8 @@
 # Pairwise-Indepence-Autoencoder: learning disentangled representation with pairwise independence
 
-## [ [Paper]](https://arxiv.org/abs/1811.) 
-The implementation of PIAE. 
-In this work we introduce the method to learn disentangled representation unsupervisedly with the assumption that the latent codes are pairwise independent. We also give our implementation of other learning methods..
+## Introduction
+The implementation of [PIAE](https://aaai.org/ojs/index.php/AAAI/article/view/4331) . 
+In this work we introduce the method to learn disentangled representation unsupervisedly with the assumption that the latent codes are pairwise independent.
 
 ## Examples of latent traversal of PIAE(MI)
 
